@@ -1,5 +1,12 @@
-include <studio-h> 
-int main()
+#include "stdio.h"
+
+int main(void)
 {
-	printf("C");
+    int a;
+
+    printf("Please input an integer value: ");
+    scanf("%d", &a);
+    printf("You entered: %d\n", a);
+
+    return 0;
 }
