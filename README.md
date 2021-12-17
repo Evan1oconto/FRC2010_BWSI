@@ -1,6 +1,4 @@
 # FRC2010_BWSI 
-This is Evan Loconto's FRC project which really embodies his 
-true genius.
-Please join us for his ted talk at december 2019
+Here is some of the work that was done over the summer of 2018 at BWSI.
 
 Update presentation: https://docs.google.com/presentation/d/1Qpf8SxbU41GKhMu-z-I-ghFCuMyXPEAJdeAGVOypfJw/edit?usp=sharing
